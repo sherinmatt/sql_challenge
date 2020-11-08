@@ -6,7 +6,7 @@ e.last_name,
 e.first_name, 
 e.sex,
 s.salary
-FROM employees  e 
+FROM employees e 
 JOIN salaries s
 ON e.emp_no = s.emp_no;
 
@@ -14,7 +14,7 @@ ON e.emp_no = s.emp_no;
 SELECT e.first_name,e.last_name,e.hire_date
 FROM employees e 
 WHERE e.hire_date between '1986-1-1'and '1986-12-31'
-ORDER BY e.hire_date ASC
+ORDER BY e.hire_date ASC;
 
 -- 3) I will list manager for each department w/ dept number, dept name, manager employee number, last name and first name
 SELECT 
