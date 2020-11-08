@@ -1,7 +1,7 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
-
+-- These are the tables I will use
 CREATE TABLE "departments" (
     "dept_no" VARCHAR   NOT NULL,
     "dept_name" VARCHAR   NOT NULL,
@@ -46,6 +46,7 @@ CREATE TABLE "titles" (
      )
 );
 
+-- Constraints 
 ALTER TABLE "employees" ADD CONSTRAINT "fk_employees_emp_title_id" FOREIGN KEY("emp_title_id")
 REFERENCES "titles" ("title_id");
 
@@ -64,7 +65,7 @@ REFERENCES "employees" ("emp_no");
 ALTER TABLE "salaries" ADD CONSTRAINT "fk_salaries_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "employees" ("emp_no");
 
--- I am trying to test my tables here, for reference purposes
+-- Using the code below, I am trying to test my tables here, for reference purposes 
 SELECT * FROM departments;
 SELECT * FROM dept_emp;
 SELECT * FROM dept_manager;
