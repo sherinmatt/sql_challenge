@@ -1,6 +1,6 @@
 # sql_challenge
 
-* Firstly, I used QucikDBD to create ERD
+* Firstly, I used QucikDBD to create ERD. The diagram shows the necessary information needed for analysis
 
 * Analysis
 * * I listed the following details of each employee: employee number, last name, first name, sex, and salary.
@@ -9,5 +9,6 @@
 * *  I listed the department of each employee with the following information: employee number, last name, first name, and department name.
 * *  I listed the first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 * *  I listed all employees in the Sales department, including their employee number, last name, first name, and department name.
-* *
+* *  I listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+* *  Lastly, I  listed the frequency count of employee last names, in descending order
 
