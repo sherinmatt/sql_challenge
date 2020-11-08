@@ -40,7 +40,8 @@ ON de.dept_no = d.dept_no;
 
 
 --5) I will list the employees who have the name HERCULES AND LAST name starts with B
-SELECT * FROM employees e
+SELECT first_name, last_name, sex
+FROM employees e
 WHERE first_name = 'Hercules'
 AND last_name like 'B%';
 
