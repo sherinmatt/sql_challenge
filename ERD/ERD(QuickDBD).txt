@@ -26,10 +26,10 @@ emp_no INT FK >- employees.emp_no
 salaries
 -
 emp_no INT FK - employees.emp_no
-salary INT
+salary INT PK
 
 
 titles
 -
-title_id VARCHAR PK
+title_id VARCHAR 
 title VARCHAR PK
