@@ -3,7 +3,7 @@
 * Firstly, I used QucikDBD to create ERD. 
 * The diagram shows the necessary information needed for analysis
 
-* Next for the Analysis part:
+ Next for the Analysis part:
 * * I listed the following details of each employee: employee number, last name, first name, sex, and salary.
 * * I listed the first name, last name, and hire date for employees who were hired in 1986.
 * * I listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
