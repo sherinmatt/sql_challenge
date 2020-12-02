@@ -1,6 +1,7 @@
 # sql_challenge
 
-* Firstly, I used QucikDBD to create ERD. The diagram shows the necessary information needed for analysis
+* Firstly, I used QucikDBD to create ERD. 
+* The diagram shows the necessary information needed for analysis
 
 * Next for the Analysis part:
 * * I listed the following details of each employee: employee number, last name, first name, sex, and salary.
