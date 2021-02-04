@@ -13,3 +13,6 @@
 * *  I listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 * *  Lastly, I  listed the frequency count of employee last names, in descending order
 
+# Inspiration
+* Rutger Data Science Bootcamp 
+
