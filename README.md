@@ -3,8 +3,9 @@
   ## ERD:
     * Firstly, used QucikDBD to create ERD. 
     * The diagram shows the necessary information needed for analysis
-![ERD](ERD Diagram.png)
 
+
+![alt text](https://github.com/sherinmatt/sql_challenge/blob/main/ERD/ERD%20Diagram.png)
 
 
 
