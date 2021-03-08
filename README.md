@@ -1,12 +1,13 @@
 # sql_challenge
 
   ## Background
-  In this project, the main objective was to analyze employee data using SQL
+  
+    * In this project, the main objective was to analyze employee data using SQL
 
   ## Technologies Used
-  * PostgresSQL
-  * QuickDBD
-  *
+    * PostgresSQL
+    * QuickDBD
+  
   ## ERD:
     * Firstly, used QucikDBD to create ERD. 
     * The diagram shows the necessary information needed for analysis
