@@ -12,7 +12,7 @@
     * PostgresSQL
     * QuickDBD
   
-  ## ERD:
+  ## Data Engineering- ERD:
     * Firstly, used QucikDBD to create ERD. 
     * The diagram shows the necessary information needed for analysis
 
@@ -20,8 +20,7 @@
 ![alt text](https://github.com/sherinmatt/sql_challenge/blob/main/ERD/ERD%20Diagram.png)
 
 
-
-  ## Next for the Analysis part:
+  ## Data Analysis:
     * Listed the following details of each employee: 
       ** employee number, last name, first name, sex, and salary.
     * Listed the first name, last name, and hire date for employees who were hired in 1986.
