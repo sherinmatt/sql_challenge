@@ -1,10 +1,14 @@
 # sql_challenge
 
-  ## Background
+  ## Background:
   
     * In this project, the main objective was to analyze employee data using SQL
 
-  ## Technologies Used
+  ## Data Source:
+  
+  [Employee Data](https://github.com/sherinmatt/sql_challenge/tree/main/Employee_sql/data)
+
+  ## Technologies Used:
     * PostgresSQL
     * QuickDBD
   
