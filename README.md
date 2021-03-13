@@ -2,7 +2,7 @@
 
   ## Background:
   
-    * In this project, the main objective was to analyze employee data using SQL
+    * In this project, the main objective was to analyze employee data, from 1980s- 1990s, at the company Pewlett Hackard.
 
   ## Data Source:
   
